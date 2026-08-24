@@ -1,18 +1,53 @@
 <div align="center">
-  <img src="https://999999999.pro/og-image.png" alt="99pro 官方横幅" width="100%" />
+  <img src="https://999999999.pro/og-image.png" alt="99pro 官方横幅 / Official Banner" width="100%" />
 </div>
 
-# 欢迎来到 九九婆罗 (99pro) 🌌
+<div align="center">
+  <a href="#english">English</a> | <a href="#中文">中文</a>
+</div>
+
+<h1 id="english">Welcome to 99pro 🌌</h1>
+
+**99pro** — The modern technological frontier exploring destiny and the stars. We deeply integrate traditional Eastern metaphysics (Bazi, Zi Wei Dou Shu) and Western astrology (Horoscopes, Tarot) with cutting-edge technology to provide users with accurate, scientific divination and fortune services.
+
+## 🌐 Connect with us
+
+*   **Official Website:** [https://999999999.pro](https://999999999.pro)
+*   **Chinese Name:** 九九婆罗
+*   **Core Brand:** 99pro
+
+## 🔮 The 6 Pillars of 99pro
+
+We have built **6 core divination modules** at 99pro, covering the most authoritative metaphysical systems from both the East and the West, utilizing powerful algorithmic engines to generate personalized insights:
+
+1. ☯️ **Bazi (Four Pillars of Destiny):** Deep Chinese birth chart calculation, analyzing innate potential, life cycles, and five-element dynamics.
+2. 💫 **Astrology:** High-precision natal chart generation, analyzing planetary positions, houses, and aspects to understand life paths.
+3. 🃏 **Tarot:** Immersive Tarot reading experiences, providing spiritual guidance for career, relationships, and wealth.
+4. 🔢 **Numerology:** Based on Pythagorean numerology, decoding life paths, personality traits, and yearly cycles.
+5. 📜 **Oracle & I Ching:** Combining traditional Book of Changes and Oracle systems to provide directional answers at critical moments.
+6. 💖 **Yinyuan (Relationship Synastry):** Comprehensive dual-algorithm matching using both Bazi and Astrology for deep relationship analysis.
+
+## 🛠 Tech Stack
+
+We pursue ultimate performance and experience, primarily utilizing the following technologies to build the 99pro digital ecosystem:
+*   **Frontend:** React 19, Next.js, TailwindCSS, Framer Motion
+*   **Backend:** Node.js, PostgreSQL, Redis, BullMQ
+*   **Core Engines:** High-precision ephemeris and astrological calculation engines (Lunar-javascript, Horoscope Core)
+*   **Infrastructure:** Docker, Ali OSS, PDF-lib automated report generation
+
+---
+
+<h1 id="中文">欢迎来到 九九婆罗 (99pro) 🌌</h1>
 
 **九九婆罗 (99pro)** —— 探索命运与星辰的现代科技前沿。我们将传统的东方命理与西方占星学，深度结合前沿技术，为用户提供精准、科学的玄学与运势服务。
 
-## 🌐 官方入口 (Connect with us)
+## 🌐 官方入口
 
 *   **官方网站:** [https://999999999.pro](https://999999999.pro)
 *   **品牌中文名:** 九九婆罗
 *   **核心品牌:** 99pro
 
-## 🔮 我们的核心模块 (The 6 Pillars of 99pro)
+## 🔮 我们的核心模块
 
 我们在 99pro 构建了 **6 大核心命理与占卜模块**，涵盖了东西方最权威的玄学体系，通过强大的算法引擎生成专属解析：
 
@@ -23,7 +58,7 @@
 5. 📜 **易理神谕 (Oracle):** 结合传统周易与神谕体系，在关键时刻为您提供方向性解答与智慧启示。
 6. 💖 **姻缘合婚 (Yinyuan):** 综合八字与星盘双重算法，进行深度情感匹配度与人际关系解析。
 
-## 🛠 技术底座 (Tech Stack)
+## 🛠 技术底座
 
 我们在开发中追求极致的性能与体验，主要使用以下技术构建 99pro 的数字生态：
 *   **前端工程:** React 19, Next.js, TailwindCSS, Framer Motion
